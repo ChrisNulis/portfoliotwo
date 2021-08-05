@@ -46,7 +46,7 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>Timeline</SectionTitle>
       <SectionText>
-        This is my milestone bla bla bla
+        My Current Milestone
       </SectionText>
       <CarouselContainer ref={carouselRef} onScrol={handleScroll}>
         <>
@@ -59,7 +59,7 @@ const Timeline = () => {
                 onClick={(e) => handleClick(e, index)}
                 >
                 <CarouselItemTitle>
-                  {item.year}
+                  {item.string}
                   <CarouselItemImg
                     width="208"
                     height="6"

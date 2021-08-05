@@ -9,8 +9,7 @@ const Technologies = () =>  (
     <br />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      I've worked with a range of technologies in the web development world.
-        From Back-end to Design bla bla bla bla bla
+      List of technologies I've worked with in the web development world.
     </SectionText>
     <List>
       <ListItem>
@@ -19,7 +18,7 @@ const Technologies = () =>  (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-          React, HTML, NPM, Bootstrap, jQuery
+          React, HTML, NPM, Bootstrap, jQuery, Sass
           </ListParagraph>
         </ListContainer>
       </ListItem>

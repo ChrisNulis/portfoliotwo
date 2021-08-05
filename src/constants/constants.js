@@ -38,9 +38,9 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2021, text: 'Started my journey, joined a Bootcamp', },
-  { year: 2021, text: 'Created my first app', },
-  { year: 2021, text: 'Created some apps', },
-  { year: 2021, text: 'Graduated from Bootcamp', },
-  { year: 2021, text: 'Looking for Job!!, please hire me :(', },
+  { string: '03 21', text: 'Started my journey, joined a Bootcamp', },
+  { string: '04 21', text: 'Created my first app', },
+  { string: '05 21', text: 'Created some more apps', },
+  { string: '06 21', text: 'Graduated from Bootcamp', },
+  { string: '07 21', text: 'Looking for Job!!, please hire me :(', },
 ];
