@@ -8,13 +8,13 @@ const Hero = () => (
   <Section row nopadding>
     <LeftSection>
       <SectionTitle main center>
-        Welcome to <br />
-        My Personal Portfolio
+        Chris Nugroho <br />
+        Personal Portfolio
       </SectionTitle>
       <SectionText>
-        Enter stuff here!
+
       </SectionText>
-      <Button onClick={() => window.location = 'https://google.com'}>Resume</Button>
+      <Button onClick={() => window.location = 'https://docs.google.com/document/d/1kkqrrr2w7qs3bc_99IM0OliOFN7KaPlE/edit?usp=sharing&ouid=117582958796216161566&rtpof=true&sd=true'}>Resume</Button>
     </LeftSection>
   </Section>
 );
