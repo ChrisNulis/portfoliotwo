@@ -1,15 +1,15 @@
 export const projects = [
   {
-    title: 'MERN Memories',
-    description: "Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
+    title: 'Get Motivated!',
+    description: "My very first functional app built using JavaScript, HTML, CSS, jQuery. An app dedicated for mental health well-being where users could generate a random motivational quote pulled from a 3rd party API based on the category they picked while listening to a relaxing music.",
       image: '/images/1.png',
-      tags: ['Mongo', 'Express', 'React', 'Node'],
+      tags: ['HTML', 'CSS', 'JavaScript', 'jQuery', 'AJAX'],
     source: 'https://google.com',
     visit: 'https://google.com',
     id: 0,
   },
   {
-    title: 'E-Commerce',
+    title: 'POP! Up',
     description:"While building it you're going to learn many advanced React & JavaScript topics, as well as how to use Stripe for card transactions. On top of that, at the end of the video, you will have this unique and complex webshop app that you will be able to add to your portfolio. And trust me, e-commerce applications are impressive.",
     image: '/images/2.png',
     tags: ['React', 'JavaScript'],
@@ -38,9 +38,9 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: 'Started my journey', },
-  { year: 2018, text: 'Worked as a freelance developer', },
-  { year: 2019, text: 'Founded JavaScript Mastery', },
-  { year: 2020, text: 'Shared my projects with the world', },
-  { year: 2021, text: 'Started my own platform', },
+  { year: 2021, text: 'Started my journey, joined a Bootcamp', },
+  { year: 2021, text: 'Created my first app', },
+  { year: 2021, text: 'Created some apps', },
+  { year: 2021, text: 'Graduated from Bootcamp', },
+  { year: 2021, text: 'Looking for Job!!, please hire me :(', },
 ];
