@@ -32,7 +32,7 @@ export const projects = [
     image: '/images/Bingo.png',
     tags: ['PostgreSQL', 'Express', 'React', 'Node', 'Django', 'Python'],
     source: 'https://github.com/ChrisNulis/Unit4-Project-FrontEnd',
-    visit: 'ttps://dry-cove-26271.herokuapp.com/',
+    visit: 'https://dry-cove-26271.herokuapp.com/',
     id: 3,
   },
 ];
