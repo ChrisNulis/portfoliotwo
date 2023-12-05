@@ -14,7 +14,7 @@ const Hero = () => (
       <SectionText>
         A full stack engineer with decade of analytical & business experience. I take pride in striving to understand and solve business problems. I am known for delivering high quality, detailed and easy to understand results.
       </SectionText>
-      <Button onClick={() => window.location = 'https://drive.google.com/drive/u/1/search?ths=true'}>Resume</Button>
+      <Button onClick={() => window.location = 'https://drive.google.com/file/d/19AbJSQQ1Pc8kHQhl-_8F54Ed6mDdM08K/view?usp=sharing'}>Resume</Button>
     </LeftSection>
   </Section>
 );
