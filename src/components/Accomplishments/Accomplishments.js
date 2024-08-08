@@ -4,9 +4,9 @@ import { Section, SectionDivider, SectionTitle } from '../../styles/GlobalCompon
 import { Box, Boxes, BoxNum, BoxText } from './AccomplishmentsStyles';
 
 const data = [
-  { number: 20, text: 'Total Projects'},
-  { number: 200, text: 'GitHub Contributions', },
-  { number: 3000, text: 'Hours of Coding', },
+  { number: 150, text: 'Total React Components Created'},
+  { number: 300, text: 'Project Contributions', },
+  { number: 1000, text: 'Bugs Squashed', },
   { number: 503, text: 'Cups of Coffee Consumed', }
 ];
 

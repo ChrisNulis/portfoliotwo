@@ -18,7 +18,7 @@ const Technologies = () =>  (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-          React, HTML, NPM, Bootstrap, jQuery, Sass
+          React, Redux, Next, Svelte, SCSS, jQuery 
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -28,7 +28,7 @@ const Technologies = () =>  (
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-          Node, Django, Express, MongoDB
+          Node, Django, MongoDB, PostgreSQL, GraphQL, AWS, SQL Server
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -38,7 +38,7 @@ const Technologies = () =>  (
           <ListTitle>Language</ListTitle>
           <ListParagraph>
             Experience with <br />
-          JavaScript, Python, SQL, CSS
+          JavaScript, Python, TypeScript
           </ListParagraph>
         </ListContainer>
       </ListItem>
